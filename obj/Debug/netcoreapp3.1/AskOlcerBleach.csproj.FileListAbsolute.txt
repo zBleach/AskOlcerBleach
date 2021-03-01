@@ -1,0 +1,16 @@
+C:\Users\user\Masaüstü\C# Proje\AskOlcerBleach\AskOlcerBleach\bin\Debug\netcoreapp3.1\AskOlcerBleach.exe
+C:\Users\user\Masaüstü\C# Proje\AskOlcerBleach\AskOlcerBleach\bin\Debug\netcoreapp3.1\AskOlcerBleach.deps.json
+C:\Users\user\Masaüstü\C# Proje\AskOlcerBleach\AskOlcerBleach\bin\Debug\netcoreapp3.1\AskOlcerBleach.runtimeconfig.json
+C:\Users\user\Masaüstü\C# Proje\AskOlcerBleach\AskOlcerBleach\bin\Debug\netcoreapp3.1\AskOlcerBleach.runtimeconfig.dev.json
+C:\Users\user\Masaüstü\C# Proje\AskOlcerBleach\AskOlcerBleach\bin\Debug\netcoreapp3.1\AskOlcerBleach.dll
+C:\Users\user\Masaüstü\C# Proje\AskOlcerBleach\AskOlcerBleach\bin\Debug\netcoreapp3.1\AskOlcerBleach.pdb
+C:\Users\user\Masaüstü\C# Proje\AskOlcerBleach\AskOlcerBleach\obj\Debug\netcoreapp3.1\AskOlcerBleach.AskOlcer.resources
+C:\Users\user\Masaüstü\C# Proje\AskOlcerBleach\AskOlcerBleach\obj\Debug\netcoreapp3.1\AskOlcerBleach.Properties.Resources.resources
+C:\Users\user\Masaüstü\C# Proje\AskOlcerBleach\AskOlcerBleach\obj\Debug\netcoreapp3.1\AskOlcerBleach.csproj.GenerateResource.cache
+C:\Users\user\Masaüstü\C# Proje\AskOlcerBleach\AskOlcerBleach\obj\Debug\netcoreapp3.1\AskOlcerBleach.AssemblyInfoInputs.cache
+C:\Users\user\Masaüstü\C# Proje\AskOlcerBleach\AskOlcerBleach\obj\Debug\netcoreapp3.1\AskOlcerBleach.AssemblyInfo.cs
+C:\Users\user\Masaüstü\C# Proje\AskOlcerBleach\AskOlcerBleach\obj\Debug\netcoreapp3.1\AskOlcerBleach.csproj.CoreCompileInputs.cache
+C:\Users\user\Masaüstü\C# Proje\AskOlcerBleach\AskOlcerBleach\obj\Debug\netcoreapp3.1\AskOlcerBleach.dll
+C:\Users\user\Masaüstü\C# Proje\AskOlcerBleach\AskOlcerBleach\obj\Debug\netcoreapp3.1\AskOlcerBleach.pdb
+C:\Users\user\Masaüstü\C# Proje\AskOlcerBleach\AskOlcerBleach\obj\Debug\netcoreapp3.1\AskOlcerBleach.genruntimeconfig.cache
+C:\Users\user\Masaüstü\C# Proje\AskOlcerBleach\AskOlcerBleach\obj\Debug\netcoreapp3.1\AskOlcerBleach.csprojAssemblyReference.cache
